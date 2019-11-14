@@ -1,5 +1,5 @@
-//´òÓ¡100~200Ö®¼äµÄËØÊı
-/*include<stdio.h>
+//æ‰“å°100~200ä¹‹é—´çš„ç´ æ•°
+include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
 int main(){
@@ -17,9 +17,9 @@ int main(){
 	printf("\n");
 	system("pause");
 	return 0;
-}*/
-//2.Êä³ö³Ë·¨¿Ú¾÷±í
-/*#include<stdio.h>
+}
+//2.è¾“å‡ºä¹˜æ³•å£è¯€è¡¨
+#include<stdio.h>
 #include<stdlib.h>
 int main(){
 	int i, j;
@@ -30,8 +30,8 @@ int main(){
 	}
 	system("pause");
 	return 0;
-}*/
-//3.ÅĞ¶Ï1000Äê¨C2000ÄêÖ®¼äµÄÈòÄê
+}
+//3.åˆ¤æ–­1000å¹´â€“2000å¹´ä¹‹é—´çš„é—°å¹´
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
